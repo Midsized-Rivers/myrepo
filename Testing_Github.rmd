@@ -2,7 +2,10 @@
 title: "Testing_GitHub"
 author: "Corey"
 date: "1/28/2020"
-output: html_document
+output: 
+  html_document:
+    keep_md:true
+
 ---
 
 ```{r setup, include=FALSE}
