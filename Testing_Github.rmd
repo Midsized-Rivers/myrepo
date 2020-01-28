@@ -2,9 +2,7 @@
 title: "Testing_GitHub"
 author: "Corey"
 date: "1/28/2020"
-output: 
-  html_document:
-    keep_md:true
+output: github_document
 
 ---
 
